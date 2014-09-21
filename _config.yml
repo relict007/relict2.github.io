@@ -1,0 +1,12 @@
+# Site settings
+title: My blog
+email: not@telling.you
+description: > # this means to ignore newlines until "baseurl:"
+        My blog.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://4randd.github.io" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  4randd
+
+# Build settings
+markdown: kramdown
