@@ -10,3 +10,4 @@ github_username:  4randd
 
 # Build settings
 markdown: kramdown
+baseurl: /blog
